@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022.April.12.md",
-            "mode": "source"
+            "file": "index.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022.April.12.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "ca713955e451d607",
   "lastOpenFiles": [
+    "index.md",
     "2022.April.12.md",
-    "docs/assets/wecom-temp-a9e5e7fac0485245c78adf21f889b043.png",
-    "index.md"
+    "docs/assets/wecom-temp-a9e5e7fac0485245c78adf21f889b043.png"
   ]
 }
